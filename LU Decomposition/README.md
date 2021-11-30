@@ -1,6 +1,6 @@
 # LU Decomposition
 
-These files `luFactor(A)` and `LUFactoring` performs LU decomposition with pivotiing.
+These files `luFactor.m` and `LUFactoring.m` performs LU decomposition with pivotiing.
 
 inputs:
 -	A = coefficient matrix
